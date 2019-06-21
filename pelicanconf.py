@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Aaron Kitzmiller'
-SITENAME = 'kitzmiller.dev'
+SITENAME = '@HouseBoyCoder'
 SITEURL = ''
 THEME = '../pelican-themes/pelican-sober'
 PATH = 'content'
