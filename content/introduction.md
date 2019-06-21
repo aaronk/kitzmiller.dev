@@ -36,7 +36,7 @@ But the occasional article was leaving me out of a lot of loops.  So, I started 
 obvious places, YCombinator's [Hacker News](http://news.ycombinator.com)
 and a Medium account with a bunch of relevant tags.
 
-I read a lot of interesting articles, but it eventually dawned on me how irrelevant
+I read a lot of interesting articles, but I started to notice how irrelevant
 much of it was to what I do. [Clojure for the Erlang VM](https://news.ycombinator.com/item?id=20219563)? 
 [An operating system in Rust](https://news.ycombinator.com/item?id=18903235)? (Is it just me,
 or is Hacker News Rust-ier than a 1970 Ford Pinto from Cape Cod?), a heated discussion about 
@@ -51,7 +51,7 @@ Agile / Scrum does not solve everyone's problems, though they do tend to pile on
     <a href="images/hn-scrum.png"><img src="images/hn-scrum.png" style="width: 500px"/></a>
 </div>
 
-It finally dawned on me why so many of these things were interesting, but irrelevant.  
+It finally became clear why so many of these things were interesting, but irrelevant.  
 Why I felt behind because I didn't need Kubernetes.  Why advice about aggressive refactoring
 and converting everything to GraphQL seemed so insane.
 
