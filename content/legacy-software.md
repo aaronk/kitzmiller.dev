@@ -1,0 +1,1 @@
+https://circleci.com/blog/the-little-legacy-code-that-could-a-fable-of-software-ownership/

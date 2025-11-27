@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Aaron Kitzmiller'
 SITENAME = '@HouseBoyCoder'
 SITEURL = ''
-THEME = '../pelican-themes/pelican-sober'
+THEME = 'theme'
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
